@@ -1,6 +1,4 @@
-# Template LaTeX para Proposta de Trabalho de Conclusão de Curso da UTFPR (UTFPR-GP/Curso de TSI)
-
-Site: http://tcc.tsi.gp.utfpr.edu.br/paginas/modelos-latex-da-utfpr
+# Template LaTeX para Proposta de Trabalho de Conclusão de Curso da UTFPR 
 
 Customização da classe abnTeX2: https://github.com/abntex/abntex2
 
